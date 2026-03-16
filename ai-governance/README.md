@@ -3,7 +3,5 @@ This section documents frameworks for evaluating transparency, auditability, and
 Topics include:
 
 retrieval-augmented generation transparency
-
 AI system validation
-
 risk registers and audit matrices
